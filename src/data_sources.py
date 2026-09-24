@@ -5,6 +5,8 @@ everything into data/, which is git-ignored.
 """
 
 import io
+import time
+import urllib.error
 import urllib.request
 import zipfile
 from pathlib import Path
@@ -12,10 +14,16 @@ from pathlib import Path
 import pandas as pd
 
 PRIMARY_SOURCE_URL = "https://excelbianalytics.com/wp/wp-content/uploads/2017/07/1000-Sales-Records.zip"
+PRIMARY_SOURCE_PAGE = "https://excelbianalytics.com/downloads-18-sample-csv-files-data-sets-for-testing-sales/"
+MAX_ATTEMPTS = 2
 
 
 def ensure_raw_csv(dest: Path) -> Path:
-    """Download and unzip the primary ExcelBIAnalytics sales CSV to `dest` if it isn't already there."""
+    """Download and unzip the primary ExcelBIAnalytics sales CSV to `dest` if it isn't already there.
+
+    Retries up to MAX_ATTEMPTS times; if every attempt fails, raises with instructions for a manual
+    download instead of leaving the notebook stuck on an opaque network error.
+    """
     if dest.exists():
         return dest
     dest.parent.mkdir(parents=True, exist_ok=True)
@@ -27,13 +35,31 @@ def ensure_raw_csv(dest: Path) -> Path:
         )
     }
     request = urllib.request.Request(PRIMARY_SOURCE_URL, headers=headers)
-    with urllib.request.urlopen(request) as resp:
-        zip_bytes = resp.read()
-    with zipfile.ZipFile(io.BytesIO(zip_bytes)) as zf:
-        csv_name = next(n for n in zf.namelist() if n.lower().endswith(".csv"))
-        with zf.open(csv_name) as src:
-            dest.write_bytes(src.read())
-    return dest
+
+    last_error = None
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        try:
+            with urllib.request.urlopen(request, timeout=30) as resp:
+                zip_bytes = resp.read()
+            with zipfile.ZipFile(io.BytesIO(zip_bytes)) as zf:
+                csv_name = next(n for n in zf.namelist() if n.lower().endswith(".csv"))
+                with zf.open(csv_name) as src:
+                    dest.write_bytes(src.read())
+            return dest
+        except (urllib.error.URLError, zipfile.BadZipFile, StopIteration, TimeoutError) as exc:
+            last_error = exc
+            if attempt < MAX_ATTEMPTS:
+                time.sleep(2)
+
+    raise RuntimeError(
+        f"Could not download the primary dataset automatically after {MAX_ATTEMPTS} attempts "
+        f"(last error: {last_error}).\n\n"
+        "Please download it manually:\n"
+        f"  1. Go to {PRIMARY_SOURCE_PAGE}\n"
+        '  2. Find and download the "1000 Sales Record" CSV file\n'
+        f"  3. Save/rename it to {dest}\n"
+        "  4. Re-run this cell."
+    )
 
 
 # Secondary metadata source: a product catalogue covering the 12 `Item Type` values found in the
