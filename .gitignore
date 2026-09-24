@@ -4,3 +4,7 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
+
+# All data is generated locally by running the notebook; nothing here is tracked except the placeholder.
+data/*
+!data/README.md
