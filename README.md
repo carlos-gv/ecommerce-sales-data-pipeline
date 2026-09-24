@@ -27,6 +27,6 @@ See `data/README.md` for exactly what lands where.
 
 ## Other projects
 
-<!-- TODO: add up to 3 links to your other GitHub repos, e.g. -->
-<!-- - [Project name](https://github.com/your-username/repo) -->
+- https://github.com/carlos-gv/data-analyst-projects
+- https://github.com/carlos-gv/data-science-projects
 
