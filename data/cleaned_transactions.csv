@@ -1,0 +1,494 @@
+order_id,date,customer_id,product,price,quantity,coupon_code,discount_pct,shipping_city,total,category,is_perishable,days_since_purchase,is_discounted
+686800706,2014-10-18,CUST-0103,Cosmetics,437.2,8446,SAVE10,10.0,Tripoli,3323332.08,Personal Care,False,1012,True
+185941302,2011-11-07,CUST-0052,Vegetables,154.06,3018,,0.0,Toronto,464953.08,Food & Grocery,True,2088,False
+161442649,2010-04-10,CUST-0015,Cereal,205.7,3322,SAVE10,10.0,Osaka,615001.86,Food & Grocery,False,2664,True
+645713555,2011-08-16,CUST-0107,Fruits,9.33,9845,WELCOME5,5.0,Chad City,87261.16,Food & Grocery,True,2171,True
+683458888,2014-11-24,CUST-0072,Cereal,205.7,9528,SAVE20,20.0,Armenia City,1567927.68,Food & Grocery,False,975,True
+679414975,2015-03-04,CUST-0061,Cereal,205.7,2844,SAVE20,20.0,Eritrea City,468008.64,Food & Grocery,False,875,True
+208630645,2012-05-17,CUST-0021,Clothes,109.28,7299,SAVE20,20.0,Montenegro City,638107.78,Apparel,False,1896,True
+266467225,2015-01-29,CUST-0103,Vegetables,154.06,2428,,0.0,Jamaica City,374057.68,Food & Grocery,True,909,False
+118598544,2013-12-24,CUST-0083,Vegetables,154.06,4800,,0.0,Fiji City,739488.0,Food & Grocery,True,1310,False
+451010930,2015-12-29,CUST-0087,Clothes,109.28,3012,,0.0,Togo City,329151.36,Apparel,False,575,False
+220003211,2010-02-27,CUST-0075,Snacks,152.58,2694,SAVE10,10.0,Montenegro City,369945.47,Food & Grocery,False,2706,True
+702186715,2016-11-17,CUST-0075,Household,668.27,1508,,0.0,Greece City,1007751.16,Home Goods,False,251,False
+544485270,2015-12-20,CUST-0088,Cosmetics,437.2,4146,,0.0,Sudan City,1812631.2,Personal Care,False,584,False
+714135205,2011-01-08,CUST-0117,Fruits,9.33,7332,,0.0,Maldives City,68407.56,Food & Grocery,True,2391,False
+448685348,2010-06-28,CUST-0100,Clothes,109.28,4820,,0.0,Montenegro City,526729.6,Apparel,False,2585,False
+405997025,2016-04-25,CUST-0104,Office Supplies,651.21,2397,VIP15,15.0,Estonia City,1326807.81,Business & Office,False,457,True
+414244067,2012-07-27,CUST-0024,Beverages,47.45,2880,,0.0,Greenland City,136656.0,Food & Grocery,True,1825,False
+821912801,2014-09-08,CUST-0003,Clothes,109.28,1117,,0.0,Cape Verde City,122065.76,Apparel,False,1052,False
+247802054,2012-08-27,CUST-0022,Household,668.27,8989,SAVE10,10.0,Senegal City,5406371.13,Home Goods,False,1794,True
+531023156,2012-09-03,CUST-0053,Snacks,152.58,407,,0.0,Federated St City,62100.06,Food & Grocery,False,1787,False
+880999934,2010-08-27,CUST-0002,Clothes,109.28,6313,,0.0,Bulgaria City,689884.64,Apparel,False,2525,False
+127468717,2011-02-20,CUST-0088,Personal Care,81.73,9681,,0.0,Algeria City,791228.13,Personal Care,False,2348,False
+770478332,2015-12-12,CUST-0108,Clothes,109.28,515,VIP15,15.0,Mongolia City,47837.32,Apparel,False,592,True
+430390107,2012-10-28,CUST-0030,Cereal,205.7,852,,0.0,Grenada City,175256.4,Food & Grocery,False,1732,False
+397877871,2017-01-30,CUST-0038,Beverages,47.45,9759,FREESHIP,0.0,Grenada City,463064.55,Food & Grocery,True,177,False
+683927953,2014-10-22,CUST-0002,Beverages,47.45,8334,,0.0,Senegal City,395448.3,Food & Grocery,True,1008,False
+469839179,2012-01-31,CUST-0064,Fruits,9.33,4709,,0.0,Greenland City,43934.97,Food & Grocery,True,2003,False
+357222878,2016-01-20,CUST-0060,Meat,421.89,9043,,0.0,Chad City,3815151.27,Food & Grocery,True,553,False
+118002879,2016-01-01,CUST-0021,Personal Care,81.73,8529,,0.0,Mauritius City,697075.17,Personal Care,False,572,False
+944415509,2017-06-01,CUST-0033,Beverages,47.45,2391,SAVE10,10.0,Morocco City,102107.66,Food & Grocery,True,55,True
+499009597,2015-06-30,CUST-0076,Office Supplies,651.21,6884,SAVE10,10.0,Honduras City,4034636.68,Business & Office,False,757,True
+564646470,2014-01-28,CUST-0058,Fruits,9.33,293,SAVE10,10.0,Benin City,2460.32,Food & Grocery,True,1275,True
+294499957,2014-04-08,CUST-0022,Baby Food,255.28,7937,,0.0,Greece City,2026157.36,Household & Family,True,1205,False
+262056386,2010-09-04,CUST-0108,Beverages,47.45,7163,,0.0,Jamaica City,339884.35,Food & Grocery,True,2517,False
+211114585,2010-05-02,CUST-0089,Office Supplies,651.21,2352,SAVE20,20.0,Equatorial G City,1225316.74,Business & Office,False,2642,True
+405785882,2013-10-03,CUST-0049,Office Supplies,651.21,9915,,0.0,Swaziland City,6456747.15,Business & Office,False,1392,False
+280494105,2011-03-06,CUST-0091,Vegetables,154.06,3294,,0.0,Trinidad And City,507473.64,Food & Grocery,True,2334,False
+689975583,2016-08-07,CUST-0059,Baby Food,255.28,7963,,0.0,Sweden City,2032794.64,Household & Family,True,353,False
+759279143,2011-01-11,CUST-0042,Office Supplies,651.21,6426,,0.0,Belarus City,4184675.46,Business & Office,False,2388,False
+133766114,2014-05-21,CUST-0092,Office Supplies,651.21,3221,SAVE20,20.0,Guinea-Bissa City,1678037.93,Business & Office,False,1162,True
+329110324,2013-08-03,CUST-0060,Beverages,47.45,9913,VIP15,15.0,Mongolia City,399816.07,Food & Grocery,True,1453,True
+681298100,2011-10-05,CUST-0080,Meat,421.89,103,VIP15,15.0,Turkey City,36936.47,Food & Grocery,True,2121,True
+596628272,2016-11-15,CUST-0015,Snacks,152.58,4419,,0.0,Central Afri City,674251.02,Food & Grocery,False,253,False
+901712167,2015-04-03,CUST-0062,Office Supplies,651.21,5523,,0.0,Equatorial G City,3596632.83,Business & Office,False,845,False
+693473613,2013-03-22,CUST-0062,Beverages,47.45,3107,,0.0,Laos City,147427.15,Food & Grocery,True,1587,False
+489148938,2010-08-02,CUST-0047,Meat,421.89,8896,,0.0,Armenia City,3753133.44,Food & Grocery,True,2550,False
+876286971,2012-01-05,CUST-0062,Household,668.27,1643,,0.0,Greece City,1097967.61,Home Goods,False,2029,False
+262749040,2015-08-26,CUST-0051,Personal Care,81.73,2135,SAVE10,10.0,Israel City,157044.2,Personal Care,False,700,True
+726708972,2016-12-09,CUST-0108,Meat,421.89,8189,VIP15,15.0,Bhutan City,2936628.63,Food & Grocery,True,229,True
+366653096,2012-05-17,CUST-0055,Vegetables,154.06,9654,,0.0,Vanuatu City,1487295.24,Food & Grocery,True,1896,False
+951380240,2010-11-17,CUST-0116,Vegetables,154.06,3410,SAVE20,20.0,Burundi City,420275.68,Food & Grocery,True,2443,True
+270001733,2014-11-13,CUST-0064,Cosmetics,437.2,8368,VIP15,15.0,Ukraine City,3109716.16,Personal Care,False,986,True
+681941401,2016-06-16,CUST-0003,Beverages,47.45,470,FREESHIP,0.0,Croatia City,22301.5,Food & Grocery,True,405,False
+566935575,2016-05-31,CUST-0101,Fruits,9.33,7690,SAVE20,20.0,Madagascar City,57398.16,Food & Grocery,True,421,True
+175033080,2012-10-06,CUST-0051,Snacks,152.58,5033,,0.0,Malaysia City,767935.14,Food & Grocery,False,1754,False
+276595246,2012-03-10,CUST-0007,Office Supplies,651.21,9535,,0.0,Uzbekistan City,6209287.35,Business & Office,False,1964,False
+812295901,2011-01-26,CUST-0021,Office Supplies,651.21,5263,,0.0,Italy City,3427318.23,Business & Office,False,2373,False
+443121373,2014-06-02,CUST-0073,Vegetables,154.06,8316,FREESHIP,0.0,Nepal City,1281162.96,Food & Grocery,True,1150,False
+535654580,2014-06-27,CUST-0018,Office Supplies,651.21,949,,0.0,Portugal City,617998.29,Business & Office,False,1125,False
+470897471,2015-03-17,CUST-0004,Cosmetics,437.2,7881,,0.0,Panama City,3445573.2,Personal Care,False,862,False
+248335492,2013-04-03,CUST-0089,Beverages,47.45,6846,,0.0,Belarus City,324842.7,Food & Grocery,True,1575,False
+680517470,2015-03-08,CUST-0060,Clothes,109.28,9097,VIP15,15.0,Botswana City,845002.14,Apparel,False,871,True
+400304734,2013-06-21,CUST-0014,Personal Care,81.73,7921,WELCOME5,5.0,Tanzania City,615014.16,Personal Care,False,1496,True
+810871112,2013-01-06,CUST-0114,Office Supplies,651.21,3636,,0.0,Romania City,2367799.56,Business & Office,False,1662,False
+235702931,2012-03-17,CUST-0009,Cereal,205.7,8590,,0.0,Mali City,1766963.0,Food & Grocery,False,1957,False
+668599021,2014-04-18,CUST-0090,Office Supplies,651.21,2163,,0.0,Central Afri City,1408567.23,Business & Office,False,1195,False
+123670709,2016-01-03,CUST-0053,Baby Food,255.28,5766,,0.0,Niger City,1471944.48,Household & Family,True,570,False
+285341823,2011-05-12,CUST-0002,Office Supplies,651.21,7841,,0.0,Austria City,5106137.61,Business & Office,False,2267,False
+658348691,2010-07-29,CUST-0084,Fruits,9.33,8862,,0.0,Mumbai,82682.46,Food & Grocery,True,2554,False
+817740142,2013-08-02,CUST-0092,Baby Food,255.28,6335,,0.0,Luxembourg City,1617198.8,Household & Family,True,1454,False
+858877503,2013-10-23,CUST-0111,Beverages,47.45,9794,SAVE10,10.0,Cape Verde City,418252.77,Food & Grocery,True,1372,True
+947434604,2017-02-05,CUST-0060,Vegetables,154.06,5808,SAVE20,20.0,Sweden City,715824.38,Food & Grocery,True,171,True
+869397771,2015-03-20,CUST-0071,Meat,421.89,2975,,0.0,Iceland City,1255122.75,Food & Grocery,True,859,False
+481065833,2012-05-06,CUST-0044,Personal Care,81.73,6925,,0.0,Qatar City,565980.25,Personal Care,False,1907,False
+159050118,2013-09-30,CUST-0008,Meat,421.89,5319,FREESHIP,0.0,South Sudan City,2244032.91,Food & Grocery,True,1395,False
+350274455,2014-05-20,CUST-0047,Office Supplies,651.21,2850,,0.0,London,1855948.5,Business & Office,False,1163,False
+221975171,2010-04-09,CUST-0035,Cereal,205.7,6241,WELCOME5,5.0,Tunisia City,1219585.01,Food & Grocery,False,2665,True
+811701095,2017-06-09,CUST-0078,Office Supplies,651.21,9247,WELCOME5,5.0,Chicago,5720651.93,Business & Office,False,47,True
+977313554,2015-02-08,CUST-0081,Cereal,205.7,7653,,0.0,Liberia City,1574222.1,Food & Grocery,False,899,False
+546986377,2010-01-25,CUST-0036,Snacks,152.58,4279,,0.0,Eritrea City,652889.82,Food & Grocery,False,2739,False
+769205892,2010-03-07,CUST-0050,Fruits,9.33,3972,SAVE20,20.0,South Korea City,29647.01,Food & Grocery,True,2698,True
+262770926,2013-01-03,CUST-0104,Clothes,109.28,8611,,0.0,Kenya City,941010.08,Apparel,False,1665,False
+866792809,2017-03-06,CUST-0004,Snacks,152.58,2109,SAVE20,20.0,Rwanda City,257432.98,Food & Grocery,False,142,True
+890695369,2011-01-09,CUST-0002,Beverages,47.45,5408,WELCOME5,5.0,Cuba City,243779.12,Food & Grocery,True,2390,True
+964214932,2014-03-27,CUST-0006,Cereal,205.7,1480,SAVE10,10.0,Tripoli,273992.4,Food & Grocery,False,1217,True
+887400329,2013-06-28,CUST-0054,Snacks,152.58,332,,0.0,Czech Republ City,50656.56,Food & Grocery,False,1489,False
+980612885,2011-09-04,CUST-0106,Beverages,47.45,3999,SAVE10,10.0,Montenegro City,170777.3,Food & Grocery,True,2152,True
+734526431,2016-07-14,CUST-0004,Clothes,109.28,1549,,0.0,Montenegro City,169274.72,Apparel,False,377,False
+160127294,2014-02-23,CUST-0054,Baby Food,255.28,4079,,0.0,Philippines City,1041287.12,Household & Family,True,1249,False
+238714301,2010-08-07,CUST-0093,Clothes,109.28,9721,FREESHIP,0.0,El Salvador City,1062310.88,Apparel,False,2545,False
+671898782,2013-01-14,CUST-0063,Household,668.27,8635,,0.0,Tonga City,5770511.45,Home Goods,False,1654,False
+331604564,2010-09-30,CUST-0018,Personal Care,81.73,8014,SAVE10,10.0,Democratic R City,589485.8,Personal Care,False,2491,True
+410067975,2016-10-13,CUST-0090,Cereal,205.7,7081,WELCOME5,5.0,Afghanistan City,1383733.62,Food & Grocery,False,286,True
+369837844,2011-03-16,CUST-0044,Snacks,152.58,2091,,0.0,Tuvalu City,319044.78,Food & Grocery,False,2324,False
+193775498,2012-12-26,CUST-0034,Fruits,9.33,1331,,0.0,Sudan City,12418.23,Food & Grocery,True,1673,False
+835054767,2015-09-02,CUST-0074,Clothes,109.28,117,,0.0,Niger City,12785.76,Apparel,False,693,False
+167161977,2013-11-11,CUST-0062,Household,668.27,5798,,0.0,Gabon City,3874629.46,Home Goods,False,1353,False
+633895957,2014-08-04,CUST-0100,Vegetables,154.06,2755,,0.0,East Timor City,424435.3,Food & Grocery,True,1087,False
+699368035,2010-10-21,CUST-0014,Clothes,109.28,7398,WELCOME5,5.0,Chicago,768030.77,Apparel,False,2470,True
+698002040,2015-06-13,CUST-0095,Vegetables,154.06,3170,,0.0,Jordan City,488370.2,Food & Grocery,True,774,False
+584534299,2012-03-29,CUST-0048,Snacks,152.58,5544,,0.0,Cyprus City,845903.52,Food & Grocery,False,1945,False
+384013640,2012-06-22,CUST-0015,Vegetables,154.06,7025,VIP15,15.0,Malawi City,919930.78,Food & Grocery,True,1860,True
+641801393,2013-05-10,CUST-0072,Personal Care,81.73,2149,,0.0,Iceland City,175637.77,Personal Care,False,1538,False
+173571383,2016-12-10,CUST-0078,Personal Care,81.73,2484,WELCOME5,5.0,Israel City,192866.45,Personal Care,False,228,True
+115309941,2011-03-20,CUST-0087,Snacks,152.58,1629,,0.0,United Arab City,248552.82,Food & Grocery,False,2320,False
+773315894,2011-09-22,CUST-0062,Cosmetics,437.2,213,,0.0,Shanghai,93123.6,Personal Care,False,2134,False
+274200570,2012-05-11,CUST-0040,Beverages,47.45,897,SAVE10,10.0,Kenya City,38306.38,Food & Grocery,True,1902,True
+414887797,2011-11-15,CUST-0085,Clothes,109.28,3374,FREESHIP,0.0,Somalia City,368710.72,Apparel,False,2080,False
+812613904,2010-01-27,CUST-0080,Beverages,47.45,9367,VIP15,15.0,Tonga City,377794.53,Food & Grocery,True,2737,True
+254927718,2011-08-17,CUST-0109,Baby Food,255.28,7632,SAVE10,10.0,Bangladesh City,1753467.26,Household & Family,True,2170,True
+749690568,2014-09-06,CUST-0082,Beverages,47.45,8954,FREESHIP,0.0,Egypt City,424867.3,Food & Grocery,True,1054,False
+775076282,2014-09-03,CUST-0111,Cereal,205.7,1150,,0.0,Eritrea City,236555.0,Food & Grocery,False,1057,False
+229571187,2015-09-05,CUST-0053,Office Supplies,651.21,4071,,0.0,Swaziland City,2651075.91,Business & Office,False,690,False
+881974112,2011-06-20,CUST-0024,Baby Food,255.28,4594,SAVE10,10.0,Vietnam City,1055480.69,Household & Family,True,2228,True
+521396386,2012-01-12,CUST-0026,Snacks,152.58,1632,VIP15,15.0,Marshall Isl City,211658.98,Food & Grocery,False,2022,True
+607261836,2017-01-23,CUST-0089,Household,668.27,1127,WELCOME5,5.0,Taiwan City,715483.28,Home Goods,False,184,True
+419306790,2012-03-04,CUST-0060,Vegetables,154.06,1052,,0.0,Ireland City,162071.12,Food & Grocery,True,1970,False
+207580077,2010-07-18,CUST-0109,Meat,421.89,6413,,0.0,Rwanda City,2705580.57,Food & Grocery,True,2565,False
+742443025,2011-04-12,CUST-0041,Snacks,152.58,4245,VIP15,15.0,Sweden City,550546.78,Food & Grocery,False,2297,True
+164569461,2010-10-03,CUST-0029,Snacks,152.58,8615,,0.0,Gabon City,1314476.7,Food & Grocery,False,2488,False
+734945714,2013-12-29,CUST-0015,Baby Food,255.28,5624,WELCOME5,5.0,Johannesburg,1363909.98,Household & Family,True,1305,True
+284870612,2015-09-19,CUST-0045,Clothes,109.28,8399,VIP15,15.0,London,780166.31,Apparel,False,676,True
+765955483,2011-09-17,CUST-0065,Fruits,9.33,2104,,0.0,Albania City,19630.32,Food & Grocery,True,2139,False
+600124156,2010-03-11,CUST-0089,Snacks,152.58,8929,SAVE20,20.0,Malaysia City,1089909.46,Food & Grocery,False,2694,True
+529612958,2012-11-10,CUST-0071,Household,668.27,3098,SAVE10,10.0,Ghana City,1863270.41,Home Goods,False,1719,True
+466970717,2011-02-16,CUST-0009,Clothes,109.28,5867,,0.0,Cuba City,641145.76,Apparel,False,2352,False
+845058763,2012-08-13,CUST-0088,Cosmetics,437.2,522,SAVE10,10.0,Saint Lucia City,205396.56,Personal Care,False,1808,True
+367050921,2014-08-28,CUST-0001,Snacks,152.58,7379,,0.0,Romania City,1125887.82,Food & Grocery,False,1063,False
+956433522,2015-08-19,CUST-0108,Office Supplies,651.21,8788,SAVE20,20.0,Portugal City,4578266.78,Business & Office,False,707,True
+107005393,2011-03-20,CUST-0008,Beverages,47.45,4129,,0.0,Macedonia City,195921.05,Food & Grocery,True,2320,False
+332877862,2013-04-16,CUST-0088,Beverages,47.45,4811,WELCOME5,5.0,Shanghai,216867.85,Food & Grocery,True,1562,True
+618474757,2015-11-13,CUST-0063,Baby Food,255.28,9279,,0.0,Berlin,2368743.12,Household & Family,True,621,False
+468532407,2014-01-10,CUST-0011,Household,668.27,8006,,0.0,Ireland City,5350169.62,Home Goods,False,1293,False
+358099639,2015-04-09,CUST-0115,Office Supplies,651.21,8496,SAVE10,10.0,Poland City,4979412.14,Business & Office,False,839,True
+382537782,2013-01-07,CUST-0081,Household,668.27,285,,0.0,Namibia City,190456.95,Home Goods,False,1661,False
+707520663,2013-02-12,CUST-0008,Personal Care,81.73,9942,,0.0,Uzbekistan City,812559.66,Personal Care,False,1625,False
+219034612,2014-11-28,CUST-0035,Meat,421.89,6064,SAVE20,20.0,Zimbabwe City,2046672.77,Food & Grocery,True,971,True
+573378455,2015-01-03,CUST-0035,Meat,421.89,4281,SAVE10,10.0,Mongolia City,1625499.98,Food & Grocery,True,935,True
+347163522,2011-02-03,CUST-0033,Personal Care,81.73,2256,FREESHIP,0.0,Norway City,184382.88,Personal Care,False,2365,False
+887313640,2013-04-09,CUST-0005,Snacks,152.58,4679,WELCOME5,5.0,Oman City,678225.73,Food & Grocery,False,1569,True
+461065137,2017-07-26,CUST-0106,Cosmetics,437.2,8275,,0.0,Serbia City,3617830.0,Personal Care,False,0,False
+105966842,2017-04-15,CUST-0103,Fruits,9.33,6798,,0.0,Democratic R City,63425.34,Food & Grocery,True,102,False
+479880082,2014-05-16,CUST-0041,Baby Food,255.28,6035,,0.0,Bulgaria City,1540614.8,Household & Family,True,1167,False
+510978686,2015-08-12,CUST-0028,Baby Food,255.28,8803,FREESHIP,0.0,Brunei City,2247229.84,Household & Family,True,714,False
+547748982,2013-09-20,CUST-0007,Snacks,152.58,9951,WELCOME5,5.0,Serbia City,1442407.4,Food & Grocery,False,1405,True
+108989799,2013-10-31,CUST-0073,Cereal,205.7,1358,SAVE20,20.0,Ghana City,223472.48,Food & Grocery,False,1364,True
+133812463,2014-07-30,CUST-0072,Cereal,205.7,6936,WELCOME5,5.0,Malawi City,1355398.44,Food & Grocery,False,1092,True
+731640803,2011-11-12,CUST-0012,Fruits,9.33,7627,,0.0,Zimbabwe City,71159.91,Food & Grocery,True,2083,False
+732211148,2010-03-25,CUST-0034,Snacks,152.58,6405,,0.0,Cyprus City,977274.9,Food & Grocery,False,2680,False
+835572326,2011-07-04,CUST-0033,Cereal,205.7,3274,,0.0,Nicaragua City,673461.8,Food & Grocery,False,2214,False
+462085664,2011-01-01,CUST-0048,Baby Food,255.28,271,,0.0,Estonia City,69180.88,Household & Family,True,2398,False
+902424991,2016-06-16,CUST-0119,Clothes,109.28,6463,,0.0,Estonia City,706276.64,Apparel,False,405,False
+367576634,2013-12-17,CUST-0023,Fruits,9.33,2949,WELCOME5,5.0,Lithuania City,26138.46,Food & Grocery,True,1317,True
+738839423,2017-03-01,CUST-0062,Meat,421.89,7859,,0.0,Republic Of City,3315633.51,Food & Grocery,True,147,False
+817824685,2010-07-02,CUST-0088,Baby Food,255.28,1353,,0.0,Czech Republ City,345393.84,Household & Family,True,2581,False
+376456248,2013-07-16,CUST-0037,Snacks,152.58,624,,0.0,Cameroon City,95209.92,Food & Grocery,False,1471,False
+606970441,2016-08-16,CUST-0099,Office Supplies,651.21,4897,SAVE20,20.0,Vietnam City,2551180.3,Business & Office,False,344,True
+971916091,2014-12-16,CUST-0044,Meat,421.89,424,WELCOME5,5.0,Moldova City,169937.29,Food & Grocery,True,953,True
+554154527,2012-05-14,CUST-0104,Office Supplies,651.21,5494,,0.0,Bahrain City,3577747.74,Business & Office,False,1899,False
+306859576,2017-07-18,CUST-0086,Household,668.27,5423,,0.0,Hungary City,3624028.21,Home Goods,False,8,False
+803517568,2017-07-09,CUST-0091,Personal Care,81.73,7559,SAVE10,10.0,Marshall Isl City,556017.36,Personal Care,False,17,True
+887927329,2011-09-30,CUST-0035,Office Supplies,651.21,6283,,0.0,Iraq City,4091552.43,Business & Office,False,2126,False
+824200189,2015-11-24,CUST-0065,Vegetables,154.06,8006,VIP15,15.0,Albania City,1048393.71,Food & Grocery,True,610,True
+946759974,2012-08-14,CUST-0099,Office Supplies,651.21,6170,SAVE20,20.0,Lesotho City,3214372.56,Business & Office,False,1807,True
+310343015,2015-12-06,CUST-0101,Clothes,109.28,6249,,0.0,Lebanon City,682890.72,Apparel,False,598,False
+739998137,2014-05-25,CUST-0047,Vegetables,154.06,748,,0.0,Hungary City,115236.88,Food & Grocery,True,1158,False
+981086671,2012-10-18,CUST-0078,Beverages,47.45,4203,VIP15,15.0,Osaka,169517.5,Food & Grocery,True,1742,True
+749282443,2013-03-13,CUST-0003,Office Supplies,651.21,8180,,0.0,Georgia City,5326897.8,Business & Office,False,1596,False
+280571782,2011-02-23,CUST-0001,Office Supplies,651.21,6280,,0.0,Estonia City,4089598.8,Business & Office,False,2345,False
+781253516,2014-08-15,CUST-0005,Household,668.27,9131,SAVE20,20.0,Luxembourg City,4881578.7,Home Goods,False,1076,True
+377938973,2017-07-06,CUST-0090,Personal Care,81.73,9396,SAVE20,20.0,Swaziland City,614348.06,Personal Care,False,20,True
+867551982,2010-12-31,CUST-0119,Clothes,109.28,6765,FREESHIP,0.0,Romania City,739279.2,Apparel,False,2399,False
+967328870,2010-01-13,CUST-0014,Personal Care,81.73,2964,FREESHIP,0.0,Ethiopia City,242247.72,Personal Care,False,2751,False
+364818465,2011-09-17,CUST-0103,Office Supplies,651.21,6746,,0.0,Chad City,4393062.66,Business & Office,False,2139,False
+167882096,2014-03-08,CUST-0027,Office Supplies,651.21,8898,,0.0,Morocco City,5794466.58,Business & Office,False,1236,False
+654693591,2012-11-18,CUST-0009,Clothes,109.28,7237,WELCOME5,5.0,Mexico City,751316.39,Apparel,False,1711,True
+823739278,2011-11-18,CUST-0079,Personal Care,81.73,1612,VIP15,15.0,Lagos,111986.45,Personal Care,False,2077,True
+643817985,2012-07-12,CUST-0015,Beverages,47.45,8904,,0.0,Trinidad And City,422494.8,Food & Grocery,True,1840,False
+604041039,2017-03-30,CUST-0090,Personal Care,81.73,8022,SAVE20,20.0,Moldova City,524510.45,Personal Care,False,118,True
+363832271,2010-07-26,CUST-0042,Personal Care,81.73,4909,,0.0,Solomon Isla City,401212.57,Personal Care,False,2557,False
+102928006,2015-12-24,CUST-0077,Personal Care,81.73,7539,,0.0,Mumbai,616162.47,Personal Care,False,580,False
+971377074,2016-05-15,CUST-0051,Office Supplies,651.21,917,,0.0,Burkina Faso City,597159.57,Business & Office,False,437,False
+139540803,2010-11-03,CUST-0063,Meat,421.89,2079,,0.0,Kiribati City,877109.31,Food & Grocery,True,2457,False
+248093020,2010-12-01,CUST-0096,Meat,421.89,5093,,0.0,Israel City,2148685.77,Food & Grocery,True,2429,False
+858020055,2014-01-16,CUST-0103,Snacks,152.58,6056,,0.0,Comoros City,924024.48,Food & Grocery,False,1287,False
+700620734,2014-12-11,CUST-0113,Baby Food,255.28,8099,,0.0,Iran City,2067512.72,Household & Family,True,958,False
+827506387,2016-12-24,CUST-0052,Cosmetics,437.2,6384,WELCOME5,5.0,Vietnam City,2651530.56,Personal Care,False,214,True
+560600841,2013-03-21,CUST-0096,Household,668.27,3101,SAVE10,10.0,Belize City,1865074.74,Home Goods,False,1588,True
+642140424,2012-12-08,CUST-0004,Personal Care,81.73,2476,SAVE20,20.0,Belarus City,161890.78,Personal Care,False,1691,True
+984673964,2015-02-13,CUST-0094,Baby Food,255.28,5763,SAVE10,10.0,Chicago,1324060.78,Household & Family,True,894,True
+221062791,2012-03-28,CUST-0101,Beverages,47.45,6247,,0.0,Poland City,296420.15,Food & Grocery,True,1946,False
+654480731,2016-10-07,CUST-0023,Vegetables,154.06,4247,,0.0,Toronto,654292.82,Food & Grocery,True,292,False
+608414113,2011-12-15,CUST-0103,Beverages,47.45,2111,WELCOME5,5.0,Israel City,95158.6,Food & Grocery,True,2050,True
+276661765,2016-03-08,CUST-0109,Household,668.27,9219,,0.0,Lebanon City,6160781.13,Home Goods,False,505,False
+373335015,2011-01-18,CUST-0015,Baby Food,255.28,6982,FREESHIP,0.0,Andorra City,1782364.96,Household & Family,True,2381,False
+782857692,2013-04-11,CUST-0043,Clothes,109.28,3843,,0.0,Slovakia City,419963.04,Apparel,False,1567,False
+109966123,2010-05-18,CUST-0029,Fruits,9.33,274,WELCOME5,5.0,Liberia City,2428.6,Food & Grocery,True,2626,True
+629709136,2017-06-05,CUST-0036,Cereal,205.7,3782,,0.0,Antigua And City,777957.4,Food & Grocery,False,51,False
+637448060,2012-09-11,CUST-0013,Personal Care,81.73,3901,SAVE10,10.0,Shanghai,286945.86,Personal Care,False,1779,True
+298856723,2017-03-08,CUST-0032,Baby Food,255.28,7200,,0.0,Niger City,1838016.0,Household & Family,True,140,False
+299921452,2015-01-28,CUST-0071,Household,668.27,2278,SAVE20,20.0,London,1217855.25,Home Goods,False,910,True
+496941077,2010-07-26,CUST-0059,Personal Care,81.73,4763,,0.0,Bangladesh City,389279.99,Personal Care,False,2557,False
+366526925,2016-06-24,CUST-0115,Snacks,152.58,2317,VIP15,15.0,Myanmar City,300498.68,Food & Grocery,False,397,True
+355602824,2012-08-18,CUST-0086,Meat,421.89,9633,WELCOME5,5.0,Tonga City,3860863.05,Food & Grocery,True,1803,True
+531405103,2010-03-11,CUST-0028,Vegetables,154.06,3434,,0.0,Guinea-Bissa City,529042.04,Food & Grocery,True,2694,False
+131482589,2010-01-14,CUST-0066,Vegetables,154.06,7475,SAVE20,20.0,Nauru City,921278.8,Food & Grocery,True,2750,True
+713696610,2014-02-10,CUST-0042,Cereal,205.7,7542,FREESHIP,0.0,Swaziland City,1551389.4,Food & Grocery,False,1262,False
+306220996,2014-01-21,CUST-0045,Vegetables,154.06,6452,,0.0,Finland City,993995.12,Food & Grocery,True,1282,False
+157542073,2010-02-28,CUST-0062,Household,668.27,9055,FREESHIP,0.0,Papua New Gu City,6051184.85,Home Goods,False,2705,False
+686458671,2015-02-18,CUST-0057,Personal Care,81.73,7230,FREESHIP,0.0,Mauritius City,590907.9,Personal Care,False,889,False
+132082116,2012-06-14,CUST-0117,Office Supplies,651.21,4888,SAVE20,20.0,Mozambique City,2546491.58,Business & Office,False,1868,True
+403836238,2013-03-05,CUST-0006,Clothes,109.28,2972,,0.0,Bulgaria City,324780.16,Apparel,False,1604,False
+331457364,2014-04-10,CUST-0028,Household,668.27,4455,,0.0,Spain City,2977142.85,Home Goods,False,1203,False
+614994323,2017-07-26,CUST-0028,Meat,421.89,9341,WELCOME5,5.0,Vanuatu City,3743830.77,Food & Grocery,True,0,True
+674808442,2010-10-19,CUST-0108,Fruits,9.33,9669,SAVE20,20.0,Belgium City,72169.42,Food & Grocery,True,2472,True
+901573550,2016-11-08,CUST-0044,Baby Food,255.28,4503,,0.0,Belgium City,1149525.84,Household & Family,True,260,False
+406275975,2014-03-31,CUST-0084,Clothes,109.28,4944,SAVE20,20.0,Guinea-Bissa City,432224.26,Apparel,False,1213,True
+170214545,2016-08-18,CUST-0030,Vegetables,154.06,9121,,0.0,Togo City,1405181.26,Food & Grocery,True,342,False
+795000588,2016-01-03,CUST-0062,Personal Care,81.73,7196,,0.0,Cote D'Ivoir City,588129.08,Personal Care,False,570,False
+252557933,2016-10-21,CUST-0075,Fruits,9.33,6360,,0.0,Republic Of City,59338.8,Food & Grocery,True,278,False
+635122907,2016-12-10,CUST-0119,Baby Food,255.28,5837,,0.0,Tripoli,1490069.36,Household & Family,True,228,False
+505244338,2011-08-12,CUST-0092,Vegetables,154.06,1882,VIP15,15.0,East Timor City,246449.78,Food & Grocery,True,2175,True
+745783555,2012-03-23,CUST-0089,Clothes,109.28,2782,,0.0,Switzerland City,304016.96,Apparel,False,1951,False
+509914386,2012-04-27,CUST-0103,Snacks,152.58,3853,VIP15,15.0,Palau City,499707.13,Food & Grocery,False,1916,True
+371123158,2014-01-29,CUST-0062,Household,668.27,2445,WELCOME5,5.0,Jordan City,1552224.14,Home Goods,False,1274,True
+973208701,2016-12-13,CUST-0097,Household,668.27,2936,VIP15,15.0,Slovenia City,1667734.61,Home Goods,False,225,True
+780282342,2013-11-21,CUST-0001,Baby Food,255.28,1739,,0.0,South Korea City,443931.92,Household & Family,True,1343,False
+126767909,2010-04-07,CUST-0027,Clothes,109.28,2296,,0.0,Norway City,250906.88,Apparel,False,2667,False
+767401731,2012-07-08,CUST-0062,Baby Food,255.28,80,FREESHIP,0.0,Afghanistan City,20422.4,Household & Family,True,1844,False
+927232635,2016-10-15,CUST-0116,Personal Care,81.73,7597,VIP15,15.0,Bangladesh City,527767.39,Personal Care,False,284,True
+251621949,2012-09-18,CUST-0077,Meat,421.89,9381,,0.0,Guinea City,3957750.09,Food & Grocery,True,1772,False
+256243503,2017-07-02,CUST-0105,Office Supplies,651.21,7002,FREESHIP,0.0,Cuba City,4559772.42,Business & Office,False,24,False
+277083623,2011-07-21,CUST-0003,Cosmetics,437.2,4056,WELCOME5,5.0,Russia City,1684619.04,Personal Care,False,2197,True
+312927377,2015-07-26,CUST-0070,Office Supplies,651.21,1020,SAVE20,20.0,South Korea City,531387.36,Business & Office,False,731,True
+251466166,2010-08-06,CUST-0072,Baby Food,255.28,3282,VIP15,15.0,Ghana City,712154.62,Household & Family,True,2546,True
+953293836,2010-06-20,CUST-0027,Office Supplies,651.21,9685,,0.0,Costa Rica City,6306968.85,Business & Office,False,2593,False
+305959212,2012-04-08,CUST-0009,Cereal,205.7,8985,FREESHIP,0.0,Romania City,1848214.5,Food & Grocery,False,1935,False
+317323625,2014-02-27,CUST-0062,Cereal,205.7,1967,SAVE10,10.0,Czech Republ City,364150.71,Food & Grocery,False,1245,True
+365560901,2011-07-25,CUST-0037,Household,668.27,6449,,0.0,Liechtenstei City,4309673.23,Home Goods,False,2193,False
+349157369,2016-02-18,CUST-0097,Baby Food,255.28,2279,,0.0,Seychelles City,581783.12,Household & Family,True,524,False
+236911857,2014-01-24,CUST-0051,Baby Food,255.28,6338,,0.0,Somalia City,1617964.64,Household & Family,True,1279,False
+517935693,2015-05-10,CUST-0106,Personal Care,81.73,7536,SAVE10,10.0,Solomon Isla City,554325.55,Personal Care,False,808,True
+851652705,2012-02-13,CUST-0044,Clothes,109.28,1816,SAVE10,10.0,Uganda City,178607.23,Apparel,False,1990,True
+517799222,2012-09-07,CUST-0024,Cereal,205.7,7151,,0.0,Equatorial G City,1470960.7,Food & Grocery,False,1783,False
+666424071,2015-02-04,CUST-0079,Office Supplies,651.21,8547,SAVE20,20.0,Costa Rica City,4452713.5,Business & Office,False,903,True
+267888581,2010-11-16,CUST-0059,Fruits,9.33,3039,,0.0,Moldova City,28353.87,Food & Grocery,True,2444,False
+162866580,2011-07-20,CUST-0118,Vegetables,154.06,4695,SAVE20,20.0,Burkina Faso City,578649.36,Food & Grocery,True,2198,True
+812344396,2014-07-26,CUST-0032,Beverages,47.45,9614,FREESHIP,0.0,Guatemala City,456184.3,Food & Grocery,True,1096,False
+947620856,2014-08-24,CUST-0096,Meat,421.89,924,VIP15,15.0,Swaziland City,331352.41,Food & Grocery,True,1067,True
+352327525,2016-09-21,CUST-0105,Household,668.27,399,,0.0,Thailand City,266639.73,Home Goods,False,308,False
+585917890,2013-06-28,CUST-0052,Household,668.27,4979,,0.0,Sudan City,3327316.33,Home Goods,False,1489,False
+433627212,2012-01-05,CUST-0113,Meat,421.89,8783,,0.0,Costa Rica City,3705459.87,Food & Grocery,True,2029,False
+328316819,2012-05-01,CUST-0062,Beverages,47.45,5098,SAVE10,10.0,Denmark City,217710.09,Food & Grocery,True,1912,True
+773160541,2011-10-13,CUST-0113,Cereal,205.7,4240,FREESHIP,0.0,Angola City,872168.0,Food & Grocery,False,2113,False
+991644704,2016-04-27,CUST-0058,Household,668.27,8559,FREESHIP,0.0,Papua New Gu City,5719722.93,Home Goods,False,455,False
+277568137,2014-01-19,CUST-0052,Meat,421.89,7435,VIP15,15.0,North Korea City,2666239.33,Food & Grocery,True,1284,True
+245042169,2016-11-06,CUST-0012,Fruits,9.33,2278,FREESHIP,0.0,El Salvador City,21253.74,Food & Grocery,True,262,False
+778490626,2011-02-28,CUST-0039,Household,668.27,1531,VIP15,15.0,Burkina Faso City,869653.16,Home Goods,False,2340,True
+482649838,2014-10-11,CUST-0002,Baby Food,255.28,5668,WELCOME5,5.0,Yemen City,1374580.69,Household & Family,True,1019,True
+732568633,2012-06-25,CUST-0003,Beverages,47.45,2193,VIP15,15.0,Republic Of City,88449.17,Food & Grocery,True,1857,True
+723608338,2012-11-06,CUST-0113,Household,668.27,642,,0.0,Andorra City,429029.34,Home Goods,False,1723,False
+621442782,2014-02-24,CUST-0101,Household,668.27,7584,,0.0,Dominican Re City,5068159.68,Home Goods,False,1248,False
+212058293,2015-09-19,CUST-0113,Baby Food,255.28,1616,,0.0,Israel City,412532.48,Household & Family,True,676,False
+251753699,2014-03-04,CUST-0056,Snacks,152.58,8369,SAVE10,10.0,Solomon Isla City,1149247.82,Food & Grocery,False,1240,True
+217140328,2014-10-08,CUST-0081,Fruits,9.33,5503,SAVE10,10.0,Liberia City,46208.69,Food & Grocery,True,1022,True
+555142009,2012-06-19,CUST-0059,Vegetables,154.06,7712,,0.0,Mali City,1188110.72,Food & Grocery,True,1863,False
+432995069,2010-11-11,CUST-0113,Clothes,109.28,1718,VIP15,15.0,Uzbekistan City,159581.58,Apparel,False,2449,True
+888248336,2010-11-01,CUST-0002,Personal Care,81.73,1276,WELCOME5,5.0,Tunisia City,99073.11,Personal Care,False,2459,True
+778763139,2014-04-28,CUST-0002,Vegetables,154.06,2173,,0.0,Vatican City City,334772.38,Food & Grocery,True,1185,False
+832713305,2012-12-22,CUST-0092,Snacks,152.58,7227,,0.0,Djibouti City,1102695.66,Food & Grocery,False,1677,False
+498585164,2014-08-25,CUST-0054,Household,668.27,1285,WELCOME5,5.0,Ukraine City,815790.6,Home Goods,False,1066,True
+195177543,2016-11-26,CUST-0087,Fruits,9.33,6227,,0.0,East Timor City,58097.91,Food & Grocery,True,242,False
+861601769,2010-10-20,CUST-0101,Cereal,205.7,5965,SAVE10,10.0,Uganda City,1104300.45,Food & Grocery,False,2471,True
+807281672,2014-12-18,CUST-0096,Meat,421.89,1441,,0.0,Guinea City,607943.49,Food & Grocery,True,951,False
+661953580,2011-03-20,CUST-0097,Clothes,109.28,5629,WELCOME5,5.0,Equatorial G City,584380.26,Apparel,False,2320,True
+225666320,2016-07-12,CUST-0001,Cosmetics,437.2,8534,FREESHIP,0.0,Malta City,3731064.8,Personal Care,False,379,False
+718781220,2011-01-26,CUST-0019,Household,668.27,2191,SAVE20,20.0,Cyprus City,1171343.66,Home Goods,False,2373,True
+731972110,2010-02-24,CUST-0002,Office Supplies,651.21,5668,FREESHIP,0.0,Czech Republ City,3691058.28,Business & Office,False,2709,False
+276225316,2015-01-02,CUST-0053,Vegetables,154.06,64,,0.0,Tripoli,9859.84,Food & Grocery,True,936,False
+332839667,2016-07-26,CUST-0044,Office Supplies,651.21,3509,,0.0,Vietnam City,2285095.89,Business & Office,False,365,False
+603426492,2014-06-01,CUST-0090,Vegetables,154.06,6163,,0.0,Jordan City,949471.78,Food & Grocery,True,1151,False
+859909617,2012-12-21,CUST-0032,Beverages,47.45,5220,SAVE10,10.0,Mali City,222920.1,Food & Grocery,True,1678,True
+494525372,2010-02-27,CUST-0070,Household,668.27,9902,WELCOME5,5.0,Czech Republ City,6286349.06,Home Goods,False,2706,True
+769822585,2016-04-24,CUST-0032,Vegetables,154.06,6465,VIP15,15.0,Slovakia City,846598.22,Food & Grocery,True,458,True
+768662583,2012-07-22,CUST-0119,Vegetables,154.06,3195,,0.0,Zimbabwe City,492221.7,Food & Grocery,True,1830,False
+544219195,2015-02-22,CUST-0068,Cereal,205.7,5409,,0.0,Honduras City,1112631.3,Food & Grocery,False,885,False
+669978749,2011-02-10,CUST-0055,Beverages,47.45,455,,0.0,Switzerland City,21589.75,Food & Grocery,True,2358,False
+889740073,2015-01-21,CUST-0075,Cosmetics,437.2,2715,,0.0,Johannesburg,1186998.0,Personal Care,False,917,False
+567614495,2012-05-10,CUST-0056,Beverages,47.45,8598,SAVE20,20.0,Uganda City,326380.08,Food & Grocery,True,1903,True
+938025844,2015-12-16,CUST-0017,Vegetables,154.06,1547,,0.0,Iran City,238330.82,Food & Grocery,True,588,False
+155710446,2017-02-25,CUST-0038,Vegetables,154.06,7036,,0.0,Algeria City,1083966.16,Food & Grocery,True,151,False
+945717132,2012-01-31,CUST-0024,Baby Food,255.28,7570,VIP15,15.0,Central Afri City,1642599.16,Household & Family,True,2003,True
+253407227,2013-02-07,CUST-0069,Cosmetics,437.2,7685,,0.0,The Bahamas City,3359882.0,Personal Care,False,1630,False
+494454562,2014-09-14,CUST-0116,Household,668.27,8948,,0.0,Johannesburg,5979679.96,Home Goods,False,1046,False
+104845464,2012-06-05,CUST-0098,Cereal,205.7,4957,SAVE10,10.0,Benin City,917689.41,Food & Grocery,False,1877,True
+290878760,2014-04-05,CUST-0070,Cosmetics,437.2,6344,,0.0,Hungary City,2773596.8,Personal Care,False,1208,False
+979165780,2014-02-02,CUST-0086,Office Supplies,651.21,5768,WELCOME5,5.0,Austria City,3568370.32,Business & Office,False,1270,True
+366630351,2010-09-01,CUST-0011,Office Supplies,651.21,2923,VIP15,15.0,Tajikistan City,1617963.81,Business & Office,False,2520,True
+770508801,2011-05-17,CUST-0112,Office Supplies,651.21,9532,VIP15,15.0,Portugal City,5276233.66,Business & Office,False,2262,True
+978349959,2013-04-21,CUST-0016,Beverages,47.45,4349,,0.0,Belgium City,206360.05,Food & Grocery,True,1557,False
+298015153,2014-08-10,CUST-0097,Beverages,47.45,8161,SAVE20,20.0,Slovenia City,309791.56,Food & Grocery,True,1081,True
+807678210,2010-09-19,CUST-0073,Snacks,152.58,8786,,0.0,Czech Republ City,1340567.88,Food & Grocery,False,2502,False
+605825459,2013-04-13,CUST-0059,Personal Care,81.73,6071,,0.0,Marshall Isl City,496182.83,Personal Care,False,1565,False
+561255729,2016-01-28,CUST-0070,Fruits,9.33,6897,,0.0,Sudan City,64349.01,Food & Grocery,True,545,False
+263080346,2013-12-09,CUST-0080,Clothes,109.28,175,SAVE20,20.0,Dominican Re City,15299.2,Apparel,False,1325,True
+270723140,2014-02-21,CUST-0093,Cereal,205.7,1848,,0.0,Tanzania City,380133.6,Food & Grocery,False,1251,False
+763920438,2017-06-09,CUST-0003,Clothes,109.28,9888,,0.0,Switzerland City,1080560.64,Apparel,False,47,False
+192721068,2014-04-17,CUST-0020,Household,668.27,9302,WELCOME5,5.0,Greenland City,5905435.16,Home Goods,False,1196,True
+227486360,2011-05-20,CUST-0059,Fruits,9.33,7124,,0.0,Tonga City,66466.92,Food & Grocery,True,2259,False
+808890140,2012-08-28,CUST-0036,Vegetables,154.06,7422,,0.0,Saudi Arabia City,1143433.32,Food & Grocery,True,1793,False
+597918736,2015-07-25,CUST-0019,Cosmetics,437.2,6296,,0.0,Belize City,2752611.2,Personal Care,False,732,False
+125870978,2014-10-27,CUST-0090,Cosmetics,437.2,6874,,0.0,Angola City,3005312.8,Personal Care,False,1003,False
+444358193,2013-10-18,CUST-0067,Household,668.27,4319,,0.0,Malaysia City,2886258.13,Home Goods,False,1377,False
+875304210,2013-02-15,CUST-0019,Beverages,47.45,822,,0.0,Ethiopia City,39003.9,Food & Grocery,True,1622,False
+360945355,2014-07-08,CUST-0020,Baby Food,255.28,607,SAVE20,20.0,Greenland City,123963.97,Household & Family,True,1114,True
+613830459,2016-12-12,CUST-0096,Cereal,205.7,4928,,0.0,Benin City,1013689.6,Food & Grocery,False,226,False
+266820847,2012-11-24,CUST-0071,Cereal,205.7,7073,,0.0,Yemen City,1454916.1,Food & Grocery,False,1705,False
+723090350,2014-11-03,CUST-0052,Baby Food,255.28,7358,VIP15,15.0,Rwanda City,1596597.7,Household & Family,True,996,True
+306125295,2013-08-03,CUST-0105,Meat,421.89,8132,,0.0,Mauritania City,3430809.48,Food & Grocery,True,1453,False
+109724509,2012-05-23,CUST-0033,Personal Care,81.73,8775,VIP15,15.0,New Zealand City,609603.64,Personal Care,False,1890,True
+847999322,2015-07-22,CUST-0040,Clothes,109.28,699,,0.0,Samoa City,76386.72,Apparel,False,735,False
+605373561,2017-02-01,CUST-0039,Clothes,109.28,2344,,0.0,Fiji City,256152.32,Apparel,False,175,False
+686583554,2012-01-28,CUST-0082,Beverages,47.45,4186,,0.0,Malawi City,198625.7,Food & Grocery,True,2006,False
+666678130,2015-08-03,CUST-0104,Beverages,47.45,3729,,0.0,Marshall Isl City,176941.05,Food & Grocery,True,723,False
+641018617,2013-06-23,CUST-0001,Baby Food,255.28,508,,0.0,Grenada City,129682.24,Household & Family,True,1494,False
+775278842,2011-08-03,CUST-0011,Meat,421.89,1093,,0.0,Luxembourg City,461125.77,Food & Grocery,True,2184,False
+855445134,2016-10-30,CUST-0092,Meat,421.89,4080,,0.0,Zimbabwe City,1721311.2,Food & Grocery,True,269,False
+737816321,2010-09-05,CUST-0057,Vegetables,154.06,5100,,0.0,Shanghai,785706.0,Food & Grocery,True,2516,False
+799003732,2013-07-13,CUST-0089,Beverages,47.45,1815,,0.0,Chicago,86121.75,Food & Grocery,True,1474,False
+585931193,2012-10-09,CUST-0050,Vegetables,154.06,8916,,0.0,Central Afri City,1373598.96,Food & Grocery,True,1751,False
+165835034,2012-01-03,CUST-0023,Vegetables,154.06,3127,,0.0,Antigua And City,481745.62,Food & Grocery,True,2031,False
+576264083,2012-02-08,CUST-0031,Baby Food,255.28,8203,,0.0,Guatemala City,2094061.84,Household & Family,True,1995,False
+675079667,2015-01-03,CUST-0094,Clothes,109.28,9930,SAVE10,10.0,Qatar City,976635.36,Apparel,False,935,True
+290455615,2012-05-13,CUST-0042,Personal Care,81.73,1126,,0.0,Israel City,92027.98,Personal Care,False,1900,False
+670878255,2012-01-13,CUST-0099,Snacks,152.58,6639,VIP15,15.0,Thailand City,861031.83,Food & Grocery,False,2021,True
+435146415,2011-07-30,CUST-0007,Cereal,205.7,8349,WELCOME5,5.0,Singapore City,1631519.83,Food & Grocery,False,2188,True
+522371423,2017-03-13,CUST-0016,Snacks,152.58,167,,0.0,North Korea City,25480.86,Food & Grocery,False,135,False
+141977107,2017-03-23,CUST-0090,Office Supplies,651.21,3036,FREESHIP,0.0,Austria City,1977073.56,Business & Office,False,125,False
+823699796,2016-03-16,CUST-0112,Baby Food,255.28,9929,SAVE10,10.0,Osaka,2281207.61,Household & Family,True,497,True
+567588317,2015-12-18,CUST-0116,Beverages,47.45,851,,0.0,Zimbabwe City,40379.95,Food & Grocery,True,586,False
+594003999,2011-10-25,CUST-0060,Fruits,9.33,7838,,0.0,Lithuania City,73128.54,Food & Grocery,True,2101,False
+393620669,2011-06-30,CUST-0113,Baby Food,255.28,9958,SAVE10,10.0,Luxembourg City,2287870.42,Household & Family,True,2218,True
+877424657,2016-03-27,CUST-0002,Cosmetics,437.2,8309,WELCOME5,5.0,Central Afri City,3451060.06,Personal Care,False,486,True
+326714789,2016-12-23,CUST-0001,Household,668.27,1021,,0.0,Norway City,682303.67,Home Goods,False,215,False
+243102395,2013-04-18,CUST-0048,Fruits,9.33,8256,,0.0,Democratic R City,77028.48,Food & Grocery,True,1560,False
+398511302,2017-03-08,CUST-0012,Household,668.27,7205,,0.0,New Zealand City,4814885.35,Home Goods,False,140,False
+185177838,2011-06-03,CUST-0069,Personal Care,81.73,7092,,0.0,Ukraine City,579629.16,Personal Care,False,2245,False
+865650832,2013-11-30,CUST-0037,Personal Care,81.73,4173,WELCOME5,5.0,Taiwan City,324006.33,Personal Care,False,1334,True
+622791612,2013-05-11,CUST-0032,Cereal,205.7,6733,,0.0,Italy City,1384978.1,Food & Grocery,False,1537,False
+409774005,2010-11-13,CUST-0119,Personal Care,81.73,89,,0.0,Finland City,7273.97,Personal Care,False,2447,False
+800084340,2016-03-09,CUST-0009,Office Supplies,651.21,1591,SAVE20,20.0,Sudan City,828860.09,Business & Office,False,504,True
+637521445,2013-08-19,CUST-0105,Snacks,152.58,5618,,0.0,Croatia City,857194.44,Food & Grocery,False,1437,False
+186196649,2011-04-19,CUST-0099,Beverages,47.45,8581,,0.0,Mauritania City,407168.45,Food & Grocery,True,2290,False
+680533778,2014-07-20,CUST-0019,Baby Food,255.28,3923,SAVE10,10.0,New Zealand City,901317.1,Household & Family,True,1102,True
+275269162,2014-09-08,CUST-0048,Beverages,47.45,7117,SAVE20,20.0,Pakistan City,270161.32,Food & Grocery,True,1052,True
+795451629,2015-06-04,CUST-0080,Household,668.27,668,,0.0,Poland City,446404.36,Home Goods,False,783,False
+986442506,2013-12-19,CUST-0003,Cereal,205.7,9113,,0.0,Lithuania City,1874544.1,Food & Grocery,False,1315,False
+563915622,2012-05-18,CUST-0020,Cereal,205.7,4019,,0.0,Pakistan City,826708.3,Food & Grocery,False,1895,False
+663857305,2013-10-12,CUST-0024,Cosmetics,437.2,8984,,0.0,East Timor City,3927804.8,Personal Care,False,1383,False
+692566382,2011-01-02,CUST-0054,Fruits,9.33,4638,,0.0,Marshall Isl City,43272.54,Food & Grocery,True,2397,False
+576654183,2013-02-02,CUST-0120,Household,668.27,3642,,0.0,Cuba City,2433839.34,Home Goods,False,1635,False
+313044536,2011-03-19,CUST-0033,Baby Food,255.28,5689,,0.0,Greenland City,1452287.92,Household & Family,True,2321,False
+418973767,2012-10-03,CUST-0024,Personal Care,81.73,2503,,0.0,Luxembourg City,204570.19,Personal Care,False,1757,False
+581990706,2014-10-23,CUST-0116,Beverages,47.45,2838,,0.0,Israel City,134663.1,Food & Grocery,True,1007,False
+109956681,2015-07-12,CUST-0075,Baby Food,255.28,7480,,0.0,Djibouti City,1909494.4,Household & Family,True,745,False
+181045520,2010-05-06,CUST-0113,Cereal,205.7,4247,,0.0,Bulgaria City,873607.9,Food & Grocery,False,2638,False
+693743550,2010-11-27,CUST-0072,Vegetables,154.06,2988,,0.0,Mongolia City,460331.28,Food & Grocery,True,2433,False
+716849601,2010-12-26,CUST-0036,Clothes,109.28,582,,0.0,Dominican Re City,63600.96,Apparel,False,2404,False
+739474999,2012-12-30,CUST-0038,Cosmetics,437.2,5940,VIP15,15.0,Yemen City,2207422.8,Personal Care,False,1669,True
+421043574,2016-08-21,CUST-0104,Personal Care,81.73,5005,SAVE10,10.0,Federated St City,368152.78,Personal Care,False,339,True
+841291654,2015-02-03,CUST-0084,Personal Care,81.73,5751,SAVE10,10.0,Finland City,423026.31,Personal Care,False,904,True
+450268065,2013-12-19,CUST-0099,Cereal,205.7,3181,FREESHIP,0.0,The Bahamas City,654331.7,Food & Grocery,False,1315,False
+918334138,2012-05-12,CUST-0112,Meat,421.89,4334,,0.0,Grenada City,1828471.26,Food & Grocery,True,1901,False
+386163699,2014-03-28,CUST-0089,Meat,421.89,3275,,0.0,Sao Tome And City,1381689.75,Food & Grocery,True,1216,False
+214743077,2017-01-11,CUST-0099,Personal Care,81.73,6103,,0.0,El Salvador City,498798.19,Personal Care,False,196,False
+935371100,2015-06-21,CUST-0025,Baby Food,255.28,5949,SAVE10,10.0,Sweden City,1366794.65,Household & Family,True,766,True
+899659097,2012-11-29,CUST-0093,Cosmetics,437.2,7974,VIP15,15.0,Turkmenistan City,2963297.88,Personal Care,False,1700,True
+329530894,2010-01-01,CUST-0018,Vegetables,154.06,4369,,0.0,Monaco City,673088.14,Food & Grocery,True,2763,False
+867222821,2016-01-06,CUST-0110,Meat,421.89,9359,,0.0,Turkey City,3948468.51,Food & Grocery,True,567,False
+625283706,2014-10-14,CUST-0082,Beverages,47.45,4199,,0.0,Mozambique City,199242.55,Food & Grocery,True,1016,False
+936574876,2013-12-09,CUST-0066,Office Supplies,651.21,2173,,0.0,Yemen City,1415079.33,Business & Office,False,1325,False
+504270160,2010-10-19,CUST-0054,Cereal,205.7,3601,SAVE20,20.0,Philippines City,592580.56,Food & Grocery,False,2472,True
+351855885,2011-05-02,CUST-0035,Personal Care,81.73,830,SAVE20,20.0,Democratic R City,54268.72,Personal Care,False,2277,True
+673130881,2011-03-17,CUST-0080,Snacks,152.58,3241,,0.0,Fiji City,494511.78,Food & Grocery,False,2323,False
+382206475,2014-09-24,CUST-0061,Office Supplies,651.21,2244,FREESHIP,0.0,Macedonia City,1461315.24,Business & Office,False,1036,False
+263506495,2015-12-01,CUST-0041,Cereal,205.7,6283,VIP15,15.0,Tunisia City,1098551.13,Food & Grocery,False,603,True
+721767270,2017-06-02,CUST-0100,Cereal,205.7,5829,,0.0,Liechtenstei City,1199025.3,Food & Grocery,False,54,False
+432037627,2011-08-04,CUST-0033,Cosmetics,437.2,8390,,0.0,Qatar City,3668108.0,Personal Care,False,2183,False
+389678895,2014-07-29,CUST-0068,Meat,421.89,3499,,0.0,Tonga City,1476193.11,Food & Grocery,True,1093,False
+760364902,2017-01-26,CUST-0033,Meat,421.89,7726,,0.0,Belgium City,3259522.14,Food & Grocery,True,181,False
+430081975,2010-11-05,CUST-0014,Fruits,9.33,9669,,0.0,Chad City,90211.77,Food & Grocery,True,2455,False
+155128943,2015-03-26,CUST-0021,Baby Food,255.28,4957,,0.0,Thailand City,1265422.96,Household & Family,True,853,False
+312117135,2012-10-07,CUST-0048,Clothes,109.28,1251,,0.0,Iceland City,136709.28,Apparel,False,1753,False
+447970378,2013-07-22,CUST-0020,Meat,421.89,3245,,0.0,Saint Lucia City,1369033.05,Food & Grocery,True,1465,False
+629925000,2013-08-16,CUST-0120,Cosmetics,437.2,7661,SAVE20,20.0,Osaka,2679511.36,Personal Care,False,1440,True
+995529830,2013-11-05,CUST-0008,Personal Care,81.73,8254,,0.0,Mumbai,674599.42,Personal Care,False,1359,False
+402646195,2016-03-01,CUST-0007,Office Supplies,651.21,812,,0.0,Vanuatu City,528782.52,Business & Office,False,512,False
+479447925,2012-03-25,CUST-0067,Meat,421.89,8150,,0.0,Chad City,3438403.5,Food & Grocery,True,1949,False
+674421346,2017-06-20,CUST-0017,Cosmetics,437.2,5118,WELCOME5,5.0,Malawi City,2125710.12,Personal Care,False,36,True
+506365287,2014-04-18,CUST-0033,Cosmetics,437.2,3596,,0.0,Finland City,1572171.2,Personal Care,False,1195,False
+914391076,2016-06-28,CUST-0048,Clothes,109.28,7494,,0.0,Turkey City,818944.32,Apparel,False,393,False
+207922542,2012-05-20,CUST-0076,Meat,421.89,7755,VIP15,15.0,Johannesburg,2780993.41,Food & Grocery,True,1893,True
+816696012,2014-02-04,CUST-0059,Office Supplies,651.21,7353,VIP15,15.0,Lithuania City,4070095.06,Business & Office,False,1268,True
+740760314,2015-11-15,CUST-0115,Beverages,47.45,6293,FREESHIP,0.0,Russia City,298602.85,Food & Grocery,True,619,False
+300476777,2013-01-11,CUST-0086,Baby Food,255.28,6610,,0.0,The Bahamas City,1687400.8,Household & Family,True,1657,False
+786519229,2013-04-24,CUST-0119,Snacks,152.58,7373,,0.0,The Bahamas City,1124972.34,Food & Grocery,False,1554,False
+409873998,2010-05-15,CUST-0022,Cosmetics,437.2,9679,SAVE20,20.0,Turkey City,3385327.04,Personal Care,False,2629,True
+151839911,2010-04-17,CUST-0110,Cosmetics,437.2,1659,VIP15,15.0,Mauritius City,616517.58,Personal Care,False,2657,True
+668362987,2014-04-19,CUST-0038,Household,668.27,2315,WELCOME5,5.0,Iran City,1469692.8,Home Goods,False,1194,True
+607080304,2013-02-26,CUST-0102,Household,668.27,7408,,0.0,Ghana City,4950544.16,Home Goods,False,1611,False
+792729079,2011-12-28,CUST-0109,Baby Food,255.28,5006,FREESHIP,0.0,Malawi City,1277931.68,Household & Family,True,2037,False
+308170640,2014-08-21,CUST-0051,Baby Food,255.28,3395,,0.0,Zimbabwe City,866675.6,Household & Family,True,1070,False
+106578814,2014-08-21,CUST-0054,Vegetables,154.06,7894,,0.0,Tajikistan City,1216149.64,Food & Grocery,True,1070,False
+761439931,2014-03-02,CUST-0008,Cereal,205.7,5851,,0.0,Czech Republ City,1203550.7,Food & Grocery,False,1242,False
+216552817,2012-09-06,CUST-0027,Household,668.27,1646,,0.0,Mauritius City,1099972.42,Home Goods,False,1784,False
+536028802,2010-09-16,CUST-0027,Fruits,9.33,1689,,0.0,Lesotho City,15758.37,Food & Grocery,True,2505,False
+254291713,2013-08-13,CUST-0098,Beverages,47.45,9424,,0.0,Mali City,447168.8,Food & Grocery,True,1443,False
+226077878,2012-09-11,CUST-0021,Personal Care,81.73,323,WELCOME5,5.0,Georgia City,25078.85,Personal Care,False,1779,True
+476436126,2011-08-31,CUST-0030,Office Supplies,651.21,6892,,0.0,Albania City,4488139.32,Business & Office,False,2156,False
+650727784,2015-04-21,CUST-0097,Cosmetics,437.2,3667,FREESHIP,0.0,Cyprus City,1603212.4,Personal Care,False,827,False
+464626681,2010-07-11,CUST-0028,Household,668.27,2215,,0.0,Saint Kitts City,1480218.05,Home Goods,False,2572,False
+154119145,2015-08-09,CUST-0111,Meat,421.89,6135,,0.0,Tunisia City,2588295.15,Food & Grocery,True,717,False
+925504004,2015-10-17,CUST-0064,Meat,421.89,6057,,0.0,Cuba City,2555387.73,Food & Grocery,True,648,False
+905392587,2012-07-24,CUST-0097,Cereal,205.7,4641,,0.0,Kiribati City,954653.7,Food & Grocery,False,1828,False
+990708720,2012-03-25,CUST-0069,Snacks,152.58,1581,,0.0,Cambodia City,241228.98,Food & Grocery,False,1949,False
+798688733,2014-08-11,CUST-0061,Baby Food,255.28,8600,,0.0,Moldova City,2195408.0,Household & Family,True,1080,False
+916881453,2016-10-15,CUST-0048,Cereal,205.7,4452,,0.0,Uzbekistan City,915776.4,Food & Grocery,False,284,False
+653148210,2016-12-03,CUST-0019,Cosmetics,437.2,9924,VIP15,15.0,Mumbai,3687956.88,Personal Care,False,235,True
+285662829,2010-06-12,CUST-0004,Personal Care,81.73,2834,,0.0,Berlin,231622.82,Personal Care,False,2601,False
+612911641,2016-07-29,CUST-0035,Vegetables,154.06,3030,FREESHIP,0.0,Austria City,466801.8,Food & Grocery,True,362,False
+703693473,2013-12-09,CUST-0064,Office Supplies,651.21,7391,,0.0,Berlin,4813093.11,Business & Office,False,1325,False
+147119653,2012-07-12,CUST-0049,Clothes,109.28,4829,SAVE10,10.0,Bhutan City,474941.81,Apparel,False,1840,True
+402614009,2012-01-14,CUST-0017,Fruits,9.33,1287,SAVE20,20.0,Kyrgyzstan City,9606.17,Food & Grocery,True,2020,True
+539065062,2014-02-10,CUST-0092,Household,668.27,186,,0.0,Saint Lucia City,124298.22,Home Goods,False,1262,False
+540431916,2013-10-26,CUST-0030,Snacks,152.58,4668,,0.0,Armenia City,712243.44,Food & Grocery,False,1369,False
+694687259,2016-04-16,CUST-0093,Beverages,47.45,2252,,0.0,Toronto,106857.4,Food & Grocery,True,466,False
+562817418,2011-05-27,CUST-0046,Cosmetics,437.2,9036,SAVE10,10.0,Burundi City,3555485.28,Personal Care,False,2252,True
+676121222,2016-08-04,CUST-0117,Cereal,205.7,8149,WELCOME5,5.0,Liechtenstei City,1592436.83,Food & Grocery,False,356,True
+286210000,2012-07-03,CUST-0006,Snacks,152.58,4754,SAVE10,10.0,Tunisia City,652828.79,Food & Grocery,False,1849,True
+515007579,2014-12-04,CUST-0099,Beverages,47.45,1042,,0.0,Iraq City,49442.9,Food & Grocery,True,965,False
+304750287,2010-05-31,CUST-0105,Cosmetics,437.2,1237,VIP15,15.0,Indonesia City,459693.94,Personal Care,False,2613,True
+467986953,2013-02-05,CUST-0037,Beverages,47.45,6594,VIP15,15.0,Kazakhstan City,265952.5,Food & Grocery,True,1632,True
+537578904,2015-06-15,CUST-0024,Beverages,47.45,399,,0.0,Denmark City,18932.55,Food & Grocery,True,772,False
+116699969,2014-10-21,CUST-0093,Vegetables,154.06,2969,,0.0,Luxembourg City,457404.14,Food & Grocery,True,1009,False
+228836476,2017-02-13,CUST-0113,Snacks,152.58,6653,SAVE20,20.0,Cape Verde City,812091.79,Food & Grocery,False,163,True
+167787253,2010-06-29,CUST-0046,Vegetables,154.06,832,,0.0,Palau City,128177.92,Food & Grocery,True,2584,False
+647663629,2014-05-19,CUST-0053,Vegetables,154.06,6915,SAVE20,20.0,Sydney,852259.92,Food & Grocery,True,1164,True
+652889430,2015-03-21,CUST-0095,Meat,421.89,3346,,0.0,Nicaragua City,1411643.94,Food & Grocery,True,858,False
+588200986,2015-08-31,CUST-0099,Office Supplies,651.21,598,SAVE10,10.0,Laos City,350481.22,Business & Office,False,695,True
+928647124,2015-08-23,CUST-0060,Personal Care,81.73,6176,,0.0,Cuba City,504764.48,Personal Care,False,703,False
+869589173,2016-02-24,CUST-0097,Cosmetics,437.2,9615,,0.0,Moldova City,4203678.0,Personal Care,False,518,False
+576700961,2015-06-17,CUST-0116,Household,668.27,7485,,0.0,Syria City,5002000.95,Home Goods,False,770,False
+735968816,2012-11-27,CUST-0063,Cereal,205.7,8382,SAVE10,10.0,The Bahamas City,1551759.66,Food & Grocery,False,1702,True
+556480538,2012-06-23,CUST-0032,Clothes,109.28,3812,,0.0,United Arab City,416575.36,Apparel,False,1859,False
+141259562,2014-10-23,CUST-0087,Beverages,47.45,698,,0.0,Angola City,33120.1,Food & Grocery,True,1007,False
+925264966,2015-09-18,CUST-0033,Cosmetics,437.2,5320,SAVE20,20.0,Cuba City,1860723.2,Personal Care,False,677,True
+346045577,2016-01-24,CUST-0067,Office Supplies,651.21,1431,,0.0,Ukraine City,931881.51,Business & Office,False,549,False
+861462724,2010-03-23,CUST-0018,Fruits,9.33,4818,SAVE10,10.0,Mozambique City,40456.75,Food & Grocery,True,2682,True
+499690234,2012-07-26,CUST-0025,Personal Care,81.73,8299,,0.0,Armenia City,678277.27,Personal Care,False,1826,False
+509214437,2015-10-20,CUST-0106,Clothes,109.28,6722,,0.0,Greenland City,734580.16,Apparel,False,645,False
+408834159,2017-06-27,CUST-0095,Office Supplies,651.21,1968,,0.0,Saint Kitts City,1281581.28,Business & Office,False,29,False
+237660729,2016-04-04,CUST-0054,Beverages,47.45,7946,,0.0,Vatican City City,377037.7,Food & Grocery,True,478,False
+105117976,2015-08-05,CUST-0058,Clothes,109.28,5600,SAVE10,10.0,Ukraine City,550771.2,Apparel,False,721,True
+640942227,2012-06-16,CUST-0067,Cereal,205.7,7903,,0.0,Niger City,1625647.1,Food & Grocery,False,1866,False
+745182311,2016-04-03,CUST-0104,Cosmetics,437.2,4860,,0.0,Myanmar City,2124792.0,Personal Care,False,479,False
+738199555,2014-09-21,CUST-0046,Baby Food,255.28,8508,,0.0,Guinea City,2171922.24,Household & Family,True,1039,False
+110667788,2015-08-08,CUST-0024,Snacks,152.58,7913,,0.0,Guinea-Bissa City,1207365.54,Food & Grocery,False,718,False
+673573338,2012-07-19,CUST-0114,Office Supplies,651.21,4174,,0.0,South Sudan City,2718150.54,Business & Office,False,1833,False
+708215034,2011-08-26,CUST-0032,Snacks,152.58,5421,SAVE10,10.0,Turkey City,744422.56,Food & Grocery,False,2161,True
+816204202,2012-06-23,CUST-0047,Household,668.27,1816,VIP15,15.0,Palau City,1031541.57,Home Goods,False,1859,True
+769464671,2011-11-20,CUST-0086,Beverages,47.45,550,,0.0,Poland City,26097.5,Food & Grocery,True,2075,False
+860232770,2015-05-13,CUST-0023,Beverages,47.45,848,SAVE20,20.0,Malaysia City,32190.08,Food & Grocery,True,805,True
+551057326,2010-07-16,CUST-0066,Personal Care,81.73,8963,WELCOME5,5.0,Chicago,695918.69,Personal Care,False,2567,True
+724799668,2016-05-21,CUST-0027,Cosmetics,437.2,3183,,0.0,Switzerland City,1391607.6,Personal Care,False,431,False
+534633624,2011-04-22,CUST-0106,Cosmetics,437.2,8825,,0.0,Papua New Gu City,3858290.0,Personal Care,False,2287,False
+554045522,2012-08-14,CUST-0002,Beverages,47.45,3237,FREESHIP,0.0,Namibia City,153595.65,Food & Grocery,True,1807,False
+526834189,2012-03-17,CUST-0090,Clothes,109.28,799,SAVE20,20.0,Ireland City,69851.78,Apparel,False,1957,True
+717110955,2010-08-06,CUST-0017,Household,668.27,7922,,0.0,Mozambique City,5294034.94,Home Goods,False,2546,False
+559299647,2013-02-25,CUST-0104,Baby Food,255.28,8049,VIP15,15.0,Democratic R City,1746536.41,Household & Family,True,1612,True
+908136594,2011-03-06,CUST-0033,Meat,421.89,6654,SAVE20,20.0,Chicago,2245804.85,Food & Grocery,True,2334,True
+888670623,2015-12-14,CUST-0009,Office Supplies,651.21,6240,,0.0,Azerbaijan City,4063550.4,Business & Office,False,590,False
+146263062,2017-02-10,CUST-0043,Office Supplies,651.21,1345,,0.0,Belgium City,875877.45,Business & Office,False,166,False
+196587741,2016-09-20,CUST-0118,Office Supplies,651.21,3536,,0.0,Taiwan City,2302678.56,Business & Office,False,309,False
+375630986,2010-04-30,CUST-0048,Baby Food,255.28,6411,VIP15,15.0,Panama City,1391110.07,Household & Family,True,2644,True
+989691627,2013-06-25,CUST-0039,Beverages,47.45,600,,0.0,Andorra City,28470.0,Food & Grocery,True,1492,False
+165380990,2012-07-04,CUST-0093,Household,668.27,8765,VIP15,15.0,Georgia City,4978778.57,Home Goods,False,1848,True
+599622905,2013-09-21,CUST-0042,Snacks,152.58,597,FREESHIP,0.0,Barbados City,91090.26,Food & Grocery,False,1404,False
+109653699,2016-12-08,CUST-0119,Personal Care,81.73,7821,SAVE20,20.0,Sweden City,511368.26,Personal Care,False,230,True
+183022201,2011-09-02,CUST-0026,Meat,421.89,9191,,0.0,Algeria City,3877590.99,Food & Grocery,True,2154,False
+127589738,2011-03-21,CUST-0099,Personal Care,81.73,5494,FREESHIP,0.0,Italy City,449024.62,Personal Care,False,2319,False
+221530139,2011-01-08,CUST-0050,Fruits,9.33,4546,,0.0,Russia City,42414.18,Food & Grocery,True,2391,False
+363329732,2015-02-22,CUST-0025,Office Supplies,651.21,6197,FREESHIP,0.0,Antigua And City,4035548.37,Business & Office,False,885,False
+521787345,2017-05-15,CUST-0024,Fruits,9.33,7325,,0.0,Jordan City,68342.25,Food & Grocery,True,72,False
